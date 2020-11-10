@@ -1,1 +1,1 @@
-This is Derrick’s first git project!
+This is Derrick’s first git project for Odin!
